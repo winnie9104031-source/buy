@@ -4,3 +4,4 @@
 2. `cp .env.example .env.local`,填入 Project URL 與 anon key
 3. `npm install && npm run dev` → 開 http://localhost:3000
 4. 推到 GitHub,在 Vercel 匯入專案,並在 Environment Variables 填同樣兩個值
+test
